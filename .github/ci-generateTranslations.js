@@ -106,7 +106,7 @@ allItems.forEach((ele) => {
   defaultTrans[key] = ele.innerHTML;
 });
 
-const defaultTransTitles = {};
+const defaultTransTitles = {fr};
 const allTitles = document.querySelectorAll("[title]");
 allTitles.forEach((ele) => {
   const key = ele.title.replace(/[\W]+/g, "-").toLowerCase();
@@ -114,7 +114,7 @@ allTitles.forEach((ele) => {
   defaultTransTitles[key] = ele.title;
 });
 
-const defaultTransPlaceholders = {};
+const defaultTransPlaceholders = {fr};
 const allPlaceholders = document.querySelectorAll("[placeholder]");
 allPlaceholders.forEach((ele) => {
   const key = ele.placeholder.replace(/[\W]+/g, "-").toLowerCase();
