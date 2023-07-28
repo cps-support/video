@@ -83,7 +83,6 @@ const updateList = [
     "pig",
     "pt",
 	"pt-br",
-    "ru",
     "tr",
 	"uk"
 ]; // list of languages to update. Update this if you add a new language.
@@ -131,7 +130,7 @@ for (const i in updateList) {
                 const key = ele.dataset.translate;//.replace(/[\W]+/g, "-").toLowerCase();
                 newTrans[key] = ele.innerHTML;
             });
-			if (lang == "blank" || lang == "en"){
+			if (lang == "blank" || lang == "fr"){
 				console.log(newTrans);
 				for (var key in newTrans) {
 					if (!(key in defaultTrans)){
@@ -152,7 +151,7 @@ for (const i in updateList) {
                 const key = ele.dataset.key;
                 newTransTitles[key] = ele.title;
             });
-			if (lang == "blank" || lang == "en"){
+			if (lang == "blank" || lang == "fr"){
 				for (var key in newTransTitles) {
 					if (!(key in defaultTransTitles)){
 						defaultTransTitles[key] = newTransTitles[key];
@@ -172,7 +171,7 @@ for (const i in updateList) {
                 const key = ele.dataset.key;
                 newPlaceholders[key] = ele.placeholder;
             });
-			if (lang == "blank" || lang == "en"){
+			if (lang == "blank" || lang == "fr"){
 				for (var key in newPlaceholders) {
 					if (!(key in defaultTransPlaceholders)){
 						defaultTransPlaceholders[key] = newPlaceholders[key];
