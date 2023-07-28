@@ -100,7 +100,7 @@ const updateList = [
 ]; // list of languages to update. Update this if you add a new language.
 
 const allItems = document.querySelectorAll("[data-translate]");
-const defaultTrans = {};
+const defaultTrans = {fr};
 allItems.forEach((ele) => {
   const key = ele.dataset.translate; //.replace(/[\W]+/g, "-").toLowerCase();
   defaultTrans[key] = ele.innerHTML;
