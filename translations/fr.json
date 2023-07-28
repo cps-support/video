@@ -500,8 +500,7 @@
     "enter-the-website-URL-you-wish-to-share": "Enter the URL website you wish to share.",
     "run-a-speed-test": "Exécuter un test de vitesse",
     "read-the-guides": "Parcourir les guides",
-    "info-blob": "\n<h2>Bienvenue sur le service de partage vidéo de CPS Concept</h2><br>\n<li>100% <b> gratuit </b>; aucun téléchargement; aucune collecte de données personnelles; pas de connexion</li>\n<li>Importez des vidéos de votre smartphone, ordinateur portable, ordinateur ou de vos correspondants directement dans votre flux vidéo</li>\n<li>Nous utilisons une technologie de transfert Peer-to-Peer de pointe qui offre une confidentialité et une latence ultra-faible</li>\n<br>\n<li>Youtube video <i class=\"fa fa-youtube-play\" aria-hidden=\"true\"></i> <a href=\"https://www.youtube.com/watch?v=QaA_6aOP9z8&amp;list=PLWodc2tCfAH1WHjl4WAOOoRSscJ8CHACe&amp;index=1\">Démonstration ici</a> </li>\n<h3>\n\t<i>Découvrez le <a href=\"https://www.reddit.com/r/VDONinja/\">sub-reddit</a> <i class=\"fa fa-reddit-alien\" aria-hidden=\"true\"></i> pour de l'aide et des informations avancées.</i></h3>\n<br>",
-    "more-than-four-can-join": "These four guest slots are just for demonstration. More than four guests can actually join a room.",
+    "info-blob": "\n<h2>Bienvenue sur le service de partage vidéo de CPS Concept</h2><br>\n<li>100% <b> gratuit </b>; aucun téléchargement; aucune collecte de données personnelles; pas de connexion</li>\n<li>Importez des vidéos de votre smartphone, ordinateur portable, ordinateur ou de vos correspondants directement dans votre flux vidéo</li>\n<li>Nous utilisons une technologie de transfert Peer-to-Peer de pointe qui offre une confidentialité et une latence ultra-faible</li>
     "privacy-disabled": "Privacy warning: The director will be able to remotely access your camera and microphone if you continue.",
     "toggle-control-video": "Toggle control bar",
     "chrome-cast": "Cast..",
