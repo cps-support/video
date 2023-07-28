@@ -2,7 +2,7 @@ Welcome to the translation / language section of VDO.Ninja
 
 You can specify a translation using this code, if deploying the code yourself. blank can be replaced with ru, en, pt, etc..
 ```
-<script type="text/javascript" id="main-js" src="./main.js" data-translation="blank"></script>
+<script type="text/javascript" id="main-js" src="./main.js" data-translation="fr"></script>
 ```
 
 You can also add &ln=ru to the URL as a parameter to launch the translation that way.
