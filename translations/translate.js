@@ -69,7 +69,6 @@ function updateTranslation(filename) { // updates the website with a specific tr
 }
 
 const updateList = [
-	"blank", // must be first
 	"en",
     "cs",
 	"cn",
